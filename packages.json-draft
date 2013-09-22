@@ -1,0 +1,25 @@
+{
+    "name": "",
+    "description": "",
+    "version": "",
+    "author": {
+        "name" : "Janusz Jablonski",
+        "email" : "janusz.jablonski+[[repository]]@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yanoosh/[[repository]].git"
+    },
+    "bugs": {
+        "url": "https://github.com/yanoosh/[[repository]]/issues"
+    },
+    "licenses": [
+        {
+            "type" : "MIT",
+            "url" : "https://raw.github.com/yanoosh/[[repository]]/master/LICENSE"
+        }
+    ],
+    "engines": {
+        "node": ">= 0.10.0",
+    }
+}
