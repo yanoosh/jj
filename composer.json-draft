@@ -1,0 +1,20 @@
+{
+    "name": "jj/[[repository]]",
+    "description": "",
+    "licenses": "MIT",
+    "authors": [
+        {
+            "name": "Janusz Jablonski",
+            "email": "januszjablonski.pl+[[repository]]@gmail.com"
+        }
+    ],
+    "keywords": []
+    "require": {
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {"JJ\\": "src/"}
+    }
+}
